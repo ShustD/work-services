@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/work-services/static/css/main.368e9bb0.css",
+    "main.js": "/work-services/static/js/main.4c226f27.js",
+    "static/media/mainWorkers.png": "/work-services/static/media/mainWorkers.c22c057aeb21983c05d9.png",
+    "static/media/main.png": "/work-services/static/media/main.64680f49c7bbda7b20b2.png",
+    "static/media/vacancy.png": "/work-services/static/media/vacancy.41e36a1916a98feee960.png",
+    "static/media/worker.png": "/work-services/static/media/worker.17ae7d73506de21295a4.png",
+    "static/media/tg.png": "/work-services/static/media/tg.3cbcffc0f5b51b9e1f5d.png",
+    "static/media/helveticaneuecyr_black.otf": "/work-services/static/media/helveticaneuecyr_black.be72df95ffe32d24ff56.otf",
+    "static/media/helveticaneuecyr_thin.otf": "/work-services/static/media/helveticaneuecyr_thin.67e6363132b52ea11e8b.otf",
+    "static/media/helveticaneuecyr_roman.otf": "/work-services/static/media/helveticaneuecyr_roman.84fb498ef9ef3d096f71.otf",
+    "static/media/Search.svg": "/work-services/static/media/Search.10df2c079f3fd6d6beb434f854f2933d.svg",
+    "index.html": "/work-services/index.html",
+    "static/media/Arrow.svg": "/work-services/static/media/Arrow.fc6a3361f29ac6e32668.svg",
+    "main.368e9bb0.css.map": "/work-services/static/css/main.368e9bb0.css.map",
+    "main.4c226f27.js.map": "/work-services/static/js/main.4c226f27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.368e9bb0.css",
+    "static/js/main.4c226f27.js"
+  ]
+}
